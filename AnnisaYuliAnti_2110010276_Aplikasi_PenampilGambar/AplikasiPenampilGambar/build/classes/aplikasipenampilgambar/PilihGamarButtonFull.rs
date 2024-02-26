@@ -1,0 +1,6 @@
+AplikasiPenampilGambar.PilihGambarButtonFullScreen$4
+AplikasiPenampilGambar.PilihGambarButtonFullScreen$3
+AplikasiPenampilGambar.PilihGambarButtonFullScreen$2
+AplikasiPenampilGambar.PilihGambarButtonFullScreen$1
+AplikasiPenampilGambar.PilihGambarButtonFullScreen
+AplikasiPenampilGambar.PilihGambarButtonFullScreen$5
